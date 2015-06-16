@@ -1,2 +1,2 @@
 # KPE
-katy perry events / Mr Gattingers tutorial
+katy perry events / Mr Gattinger's tutorial
