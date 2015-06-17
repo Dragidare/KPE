@@ -1,4 +1,3 @@
 __author__ = 'Alex'
 
-
-print "pyhton rulezzzzzzzzzzzz"
+print "pyhton rulezzzzzzzzzzz"
